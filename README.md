@@ -108,12 +108,4 @@ Wikipedia API Documentation
 Streamlit Documentation
 Python Documentation
 
- Ideal For
-Students learning Python and APIs
-Beginners exploring chatbot development
-Academic mini-projects
 
-
-Add installation + run commands
-
-Just tell me 👍
